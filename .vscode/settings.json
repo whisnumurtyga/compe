@@ -4,6 +4,8 @@
         "cmath": "cpp",
         "ostream": "cpp",
         "complex": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
